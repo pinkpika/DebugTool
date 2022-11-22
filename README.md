@@ -55,7 +55,7 @@ SceneDelegate.debugTool?.addToast("Api發送事件: 發送了OOXX的請求", .ap
 SceneDelegate.debugTool?.addToast("Api花費時間: 花費了0000ms", .apiTime)
 ```
 
-3. Show the setting => Tap the apple. ( 點擊 Apple 可以打開設定畫面 )
+3. Show the setting => Tap the apple. ( 點擊 Apple 可以打開設定畫面 )
 
 4. Hide the apple => LongPress the apple. ( 長按 Apple 可以隱藏 Apple )
 
