@@ -1,0 +1,35 @@
+{
+  "name": "DebugTool",
+  "version": "1.0.0",
+  "summary": "DebugTool for iOS.",
+  "homepage": "https://github.com/pinkpika/DebugTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pink": "tim801217@gmail.com"
+  },
+  "source": {
+    "git": "git@github.com:pinkpika/DebugTool.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": [
+    "DebugTool/Classes/*.{h,m,swift}",
+    "DebugTool/Classes/**/*.{h,m,swift}"
+  ],
+  "swift_versions": [
+    "5.0",
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6",
+    "5.7"
+  ],
+  "swift_version": "5.7"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - DebugTool (1.0.0)
+
+DEPENDENCIES:
+  - DebugTool (from `../`)
+
+EXTERNAL SOURCES:
+  DebugTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DebugTool: 0c0fb08b0709345929667cfec28f3650094f4937
+
+PODFILE CHECKSUM: c5d7ceb2ac153e3ab418ca95118f7c2941660c09
+
+COCOAPODS: 1.11.2

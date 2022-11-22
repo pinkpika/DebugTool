@@ -1,0 +1,4 @@
+target 'DemoDebugTool' do
+  use_frameworks!
+  pod 'DebugTool', :path => '../'
+end
