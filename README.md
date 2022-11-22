@@ -20,7 +20,7 @@ end
 
 ## Usage
 
-1. Declare Static DebugTool and Show it.
+1. Declare Static DebugTool and Show it. ( 宣告靜態的 DebugTool 並且顯示它 )
 
 ```swift
 import DebugTool
@@ -45,7 +45,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 }
 ```
 
-2. Call addToast
+2. Call addToast. ( 呼叫新增Toast )
 
 ```swift
 SceneDelegate.debugTool?.addToast("客製化訊息: 123")
@@ -54,6 +54,10 @@ SceneDelegate.debugTool?.addToast("使用者訊息: 點擊了A按鈕", .userEven
 SceneDelegate.debugTool?.addToast("Api發送事件: 發送了OOXX的請求", .apiSend)
 SceneDelegate.debugTool?.addToast("Api花費時間: 花費了0000ms", .apiTime)
 ```
+
+3. Show the setting => Tap the apple. ( 點擊 Apple 可以打開設定畫面 )
+
+4. Hide the apple => LongPress the apple. ( 長按 Apple 可以隱藏 Apple )
 
 ## Extension
 
