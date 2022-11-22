@@ -2,6 +2,10 @@
 
 DebugTool for iOS
 
+## Demo
+
+https://user-images.githubusercontent.com/5244890/203271313-7ee89894-824c-4b22-b639-8b16f3752d31.mov
+
 ## Install
 
 1. Download Repo 
